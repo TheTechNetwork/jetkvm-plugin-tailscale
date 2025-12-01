@@ -6,7 +6,7 @@ toolchain go1.23.4
 
 require (
 	github.com/caarlos0/env v3.5.0+incompatible
-	github.com/gwatts/rootcerts v0.0.0-20250101202213-6b948e2b3fef
+	github.com/gwatts/rootcerts v0.0.0-20251201182650-439605fc1b85
 	github.com/pion/turn/v4 v4.0.0
 	github.com/sourcegraph/jsonrpc2 v0.2.0
 	tailscale.com v1.80.2

@@ -97,6 +97,8 @@ github.com/gorilla/websocket v1.4.1 h1:q7AeDBpnBk8AogcD4DSag/Ukw/KV+YhzLj2bP5HvK
 github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gwatts/rootcerts v0.0.0-20250101202213-6b948e2b3fef h1:mTYFPc5Hj+CiqAufoOhxro4GXu3iqRhEPjuoI7ae6io=
 github.com/gwatts/rootcerts v0.0.0-20250101202213-6b948e2b3fef/go.mod h1:5Kt9XkWvkGi2OHOq0QsGxebHmhCcqJ8KCbNg/a6+n+g=
+github.com/gwatts/rootcerts v0.0.0-20251201182650-439605fc1b85 h1:l7SbHWMIEhRBlnn3UhoM/cno5pfPF+OajCj2BSrvrOc=
+github.com/gwatts/rootcerts v0.0.0-20251201182650-439605fc1b85/go.mod h1:5Kt9XkWvkGi2OHOq0QsGxebHmhCcqJ8KCbNg/a6+n+g=
 github.com/hdevalence/ed25519consensus v0.2.0 h1:37ICyZqdyj0lAZ8P4D1d1id3HqbbG1N3iBb1Tb4rdcU=
 github.com/hdevalence/ed25519consensus v0.2.0/go.mod h1:w3BHWjwJbFU29IRHL1Iqkw3sus+7FctEyM4RqDxYNzo=
 github.com/illarion/gonotify/v2 v2.0.3 h1:B6+SKPo/0Sw8cRJh1aLzNEeNVFfzE3c6N+o+vyxM+9A=
