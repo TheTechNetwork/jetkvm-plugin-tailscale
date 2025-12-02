@@ -2,7 +2,7 @@ module github.com/tutman96/jetkvm-plugin-tailscale
 
 go 1.23.1
 
-toolchain go1.23.4
+toolchain go1.25.5
 
 require (
 	github.com/caarlos0/env v3.5.0+incompatible
