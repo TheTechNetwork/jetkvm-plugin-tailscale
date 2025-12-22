@@ -7,7 +7,7 @@ require (
 	github.com/gwatts/rootcerts v0.0.0-20251201182650-439605fc1b85
 	github.com/pion/turn/v4 v4.1.3
 	github.com/sourcegraph/jsonrpc2 v0.2.1
-	tailscale.com v1.92.2
+	tailscale.com v1.92.4
 )
 
 require (
