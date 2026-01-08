@@ -5,7 +5,7 @@ go 1.25.5
 require (
 	github.com/caarlos0/env v3.5.0+incompatible
 	github.com/gwatts/rootcerts v0.0.0-20251201182650-439605fc1b85
-	github.com/pion/turn/v4 v4.1.3
+	github.com/pion/turn/v4 v4.1.4
 	github.com/sourcegraph/jsonrpc2 v0.2.1
 	tailscale.com v1.92.2
 )
@@ -36,6 +36,7 @@ require (
 	github.com/pion/randutil v0.1.0 // indirect
 	github.com/pion/stun/v3 v3.0.1 // indirect
 	github.com/pion/transport/v3 v3.1.1 // indirect
+	github.com/pion/transport/v4 v4.0.1 // indirect
 	github.com/pires/go-proxyproto v0.8.1 // indirect
 	github.com/prometheus-community/pro-bing v0.4.0 // indirect
 	github.com/safchain/ethtool v0.3.0 // indirect
