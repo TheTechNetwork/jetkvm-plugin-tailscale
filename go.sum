@@ -96,6 +96,8 @@ github.com/gwatts/rootcerts v0.0.0-20250101202213-6b948e2b3fef h1:mTYFPc5Hj+CiqA
 github.com/gwatts/rootcerts v0.0.0-20250101202213-6b948e2b3fef/go.mod h1:5Kt9XkWvkGi2OHOq0QsGxebHmhCcqJ8KCbNg/a6+n+g=
 github.com/gwatts/rootcerts v0.0.0-20251201182650-439605fc1b85 h1:l7SbHWMIEhRBlnn3UhoM/cno5pfPF+OajCj2BSrvrOc=
 github.com/gwatts/rootcerts v0.0.0-20251201182650-439605fc1b85/go.mod h1:5Kt9XkWvkGi2OHOq0QsGxebHmhCcqJ8KCbNg/a6+n+g=
+github.com/gwatts/rootcerts v0.0.0-20260901192443-18189d149cca h1:2hjzM0l6zs+FJ5/BmOBbp/qF2MQKLF2VrwtjspaE/Zk=
+github.com/gwatts/rootcerts v0.0.0-20260901192443-18189d149cca/go.mod h1:5Kt9XkWvkGi2OHOq0QsGxebHmhCcqJ8KCbNg/a6+n+g=
 github.com/hdevalence/ed25519consensus v0.2.0 h1:37ICyZqdyj0lAZ8P4D1d1id3HqbbG1N3iBb1Tb4rdcU=
 github.com/hdevalence/ed25519consensus v0.2.0/go.mod h1:w3BHWjwJbFU29IRHL1Iqkw3sus+7FctEyM4RqDxYNzo=
 github.com/illarion/gonotify/v3 v3.0.2 h1:O7S6vcopHexutmpObkeWsnzMJt/r1hONIEogeVNmJMk=
